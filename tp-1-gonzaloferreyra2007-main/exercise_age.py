@@ -14,4 +14,3 @@ def age():
     print(25*365)
     print(9125*24)
     print(219000*60)
-#age()

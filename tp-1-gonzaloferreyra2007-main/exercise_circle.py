@@ -12,5 +12,5 @@ def circle():
     radio = 5
     print(3.1416*radio**2)
     print(2* 3.1416*radio)
-#circle()
+
 

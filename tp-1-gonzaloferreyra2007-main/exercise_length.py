@@ -17,4 +17,3 @@ def length():
     print (Pies)
     Pulgadas = metros / 0.0254
     print (Pulgadas)
-length()
